@@ -1,0 +1,194 @@
+INFO 2022-07-17 11:36:43,761 root  revercing the list :
+INFO 2022-07-17 11:37:31,171 root  Reversed list :[1, 2, 3, 4]
+INFO 2022-07-17 11:38:10,291 root  revercing the list :[1, 2, 3, 4]
+INFO 2022-07-17 11:38:10,291 root  Reversed list :[1, 2, 3, 4]
+INFO 2022-07-17 11:39:02,398 root  revercing the list :[1, 2, 3, 4]
+INFO 2022-07-17 11:40:38,320 root  revercing the list :[1, 2, 3, 4]
+INFO 2022-07-17 11:40:38,321 root  Reversed list :[1, 2, 3, 4]
+INFO 2022-07-17 11:40:38,321 root  Reversed list :[1, 2, 3, 4]
+INFO 2022-07-17 11:41:03,161 root  revercing the list :[1, 2, 3, 4]
+INFO 2022-07-17 11:41:03,161 root  Reversed list :[4, 3, 2, 1]
+INFO 2022-07-17 11:41:03,161 root  Reversed list :[1, 2, 3, 4]
+INFO 2022-07-17 11:41:56,203 root  revercing the list :[1, 2, 3, 4]
+INFO 2022-07-17 11:41:56,203 root  Reversed list :[4, 3, 2, 1]
+INFO 2022-07-17 11:42:11,125 root  revercing the list :[1, 2, 3, 4]
+INFO 2022-07-17 11:42:11,126 root  Reversed list :[4, 3, 2, 1]
+INFO 2022-07-17 11:42:27,226 root  revercing the list :[1, 2, 3]
+INFO 2022-07-17 11:42:27,226 root  Reversed list :[3, 2, 1]
+INFO 2022-07-17 11:44:03,603 root  revercing the list :{'vip': 123, 'subh': 55}
+INFO 2022-07-17 11:44:03,603 root  unhashable type: 'slice'
+INFO 2022-07-17 11:44:27,642 root  revercing the list :(1, 2, 3, 4)
+INFO 2022-07-17 11:44:27,642 root  Reversed list :(4, 3, 2, 1)
+INFO 2022-07-17 11:44:59,386 root  revercing the list :{1, 2, 3, 4, 5}
+INFO 2022-07-17 11:44:59,386 root  'set' object is not subscriptable
+INFO 2022-07-17 11:53:38,123 root  'list' object has no attribute 'list_data'
+INFO 2022-07-17 11:53:38,803 root  'list' object has no attribute 'list_data'
+INFO 2022-07-17 11:53:46,603 root  'list' object has no attribute 'list_data'
+INFO 2022-07-17 12:04:55,547 root  'list1' object has no attribute 'list_data'
+INFO 2022-07-17 12:16:41,546 root  'list1' object has no attribute 'list_data'
+INFO 2022-07-17 13:31:44,965 root  Revercing the list :[1, 2, 3, 4]
+INFO 2022-07-17 13:31:44,965 root  Reversed list :[4, 3, 2, 1]
+INFO 2022-07-17 13:33:53,371 root  Revercing the list :[1, 2, 3, 4]
+INFO 2022-07-17 13:34:30,395 root  Revercing the list :[1, 2, 3, 4]
+INFO 2022-07-17 13:35:36,031 root  Revercing the list :[1, 2, 3, 4]
+INFO 2022-07-17 13:35:36,031 root  Reversed list :[4, 3, 2, 1]
+INFO 2022-07-17 13:35:51,174 root  Revercing the list :[1, 2, 3, 4]
+INFO 2022-07-17 13:36:10,314 root  Revercing the list :[1, 2, 3, 4]
+INFO 2022-07-17 13:36:35,274 root  Revercing the list :[1, 2, 3, 4]
+INFO 2022-07-17 13:39:40,396 root  Revercing the list :[1, 2, 3, 4]
+INFO 2022-07-17 13:39:40,397 root  Reversed list :[4, 3, 2, 1]
+INFO 2022-07-17 16:38:26,891 root  extracting list from a list
+INFO 2022-07-17 16:39:12,765 root  extracting list from a list
+INFO 2022-07-17 16:39:22,050 root  extracting list from a list
+INFO 2022-07-17 16:40:46,428 root  extracting list from a list
+INFO 2022-07-17 16:41:03,598 root  extracting list from a list
+INFO 2022-07-17 16:41:42,701 root  extracting list from a list
+INFO 2022-07-17 16:43:31,733 root  extracting list from a list
+INFO 2022-07-17 16:43:31,736 root  'list' object has no attribute 'values'
+INFO 2022-07-17 16:44:59,857 root  extracting list from a list
+INFO 2022-07-17 16:44:59,857 root  'list' object has no attribute 'values'
+INFO 2022-07-17 16:47:14,062 root  extracting list from a list
+INFO 2022-07-17 16:47:57,442 root  extracting list from a list
+INFO 2022-07-17 16:47:57,442 root  Extraction completeed []
+INFO 2022-07-17 16:48:22,840 root  extracting list from a list
+INFO 2022-07-17 16:50:42,858 root  extracting list from a list
+INFO 2022-07-17 16:52:41,434 root  extracting list from a list
+INFO 2022-07-17 16:53:09,628 root  extracting list from a list
+INFO 2022-07-17 16:53:09,629 root  Extraction completeed [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], [1, 2]]
+INFO 2022-07-17 16:53:09,629 root  'list' object has no attribute 'values'
+INFO 2022-07-17 16:53:49,701 root  extracting list from a list
+INFO 2022-07-17 16:53:49,701 root  Extraction completeed [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], [1, 2]]
+INFO 2022-07-17 16:53:49,701 root  'list' object has no attribute 'values'
+INFO 2022-07-17 16:54:04,605 root  extracting list from a list
+INFO 2022-07-17 16:54:04,605 root  Extraction completeed [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], [1, 2]]
+INFO 2022-07-17 16:54:04,606 root  'list' object has no attribute 'values'
+INFO 2022-07-17 17:12:27,286 root  extracting list from a list
+INFO 2022-07-17 17:12:27,286 root  Extraction completeed [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], [1, 2]]
+INFO 2022-07-17 17:12:27,286 root  'list' object has no attribute 'values'
+INFO 2022-07-17 17:13:33,388 root  extracting list from a list
+INFO 2022-07-17 17:13:33,388 root  Extraction completeed [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], [1, 2]]
+INFO 2022-07-17 17:13:33,388 root  'list' object has no attribute 'values'
+INFO 2022-07-17 17:14:13,945 root  extracting list from a list
+INFO 2022-07-17 17:14:13,945 root  Extraction completeed [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], [1, 2]]
+INFO 2022-07-17 17:14:13,945 root  'list' object has no attribute 'values'
+INFO 2022-07-17 17:14:34,918 root  extracting list from a list
+INFO 2022-07-17 17:14:34,918 root  Extraction completeed []
+INFO 2022-07-17 17:14:34,919 root  Extraction completeed []
+INFO 2022-07-17 17:14:34,919 root  Extraction completeed []
+INFO 2022-07-17 17:14:34,919 root  Extraction completeed []
+INFO 2022-07-17 17:14:34,919 root  Extraction completeed []
+INFO 2022-07-17 17:14:34,919 root  Extraction completeed [[23, 456, 67, 8, 78, 78]]
+INFO 2022-07-17 17:14:34,919 root  Extraction completeed [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]]
+INFO 2022-07-17 17:14:34,919 root  Extraction completeed [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], [1, 2]]
+INFO 2022-07-17 17:14:34,919 root  'list' object has no attribute 'values'
+INFO 2022-07-17 17:15:02,984 root  extracting list from a list
+INFO 2022-07-17 17:15:02,985 root  Extraction completeed []
+INFO 2022-07-17 17:15:02,985 root  Extraction completeed []
+INFO 2022-07-17 17:15:02,985 root  Extraction completeed []
+INFO 2022-07-17 17:15:02,985 root  Extraction completeed []
+INFO 2022-07-17 17:15:02,985 root  Extraction completeed []
+INFO 2022-07-17 17:15:02,985 root  Extraction completeed [[23, 456, 67, 8, 78, 78]]
+INFO 2022-07-17 17:15:02,985 root  Extraction completeed [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]]
+INFO 2022-07-17 17:15:02,985 root  Extraction completeed [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], [1, 2]]
+INFO 2022-07-17 17:15:02,985 root  'list' object has no attribute 'values'
+INFO 2022-07-17 17:15:28,495 root  extracting list from a list
+INFO 2022-07-17 17:15:28,495 root  Extraction completeed []
+INFO 2022-07-17 17:15:28,495 root  Extraction completeed []
+INFO 2022-07-17 17:15:28,495 root  Extraction completeed []
+INFO 2022-07-17 17:15:28,495 root  Extraction completeed []
+INFO 2022-07-17 17:15:28,495 root  Extraction completeed []
+INFO 2022-07-17 17:15:28,495 root  Extraction completeed [[23, 456, 67, 8, 78, 78]]
+INFO 2022-07-17 17:15:28,495 root  Extraction completeed [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]]
+INFO 2022-07-17 17:15:28,496 root  Extraction completeed [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], [1, 2]]
+INFO 2022-07-17 17:15:28,496 root  Extraction completeed [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], [1, 2], [23, 45, 656]]
+INFO 2022-07-17 17:49:15,892 root  extracting string 
+INFO 2022-07-17 17:49:15,892 root  list index out of range
+INFO 2022-07-17 17:50:26,250 root  extracting string 
+INFO 2022-07-17 17:50:26,251 root  list index out of range
+INFO 2022-07-17 17:51:17,931 root  extracting string 
+INFO 2022-07-17 17:51:17,932 root  list index out of range
+INFO 2022-07-17 17:54:17,361 root  extracting string 
+INFO 2022-07-17 17:54:17,361 root  list index out of range
+INFO 2022-07-17 18:39:38,914 root  extracting string 
+INFO 2022-07-17 18:39:38,914 root  list index out of range
+INFO 2022-07-17 18:40:14,460 root  extracting string 
+INFO 2022-07-17 18:40:14,460 root  list index out of range
+INFO 2022-07-17 18:40:19,346 root  extracting string 
+INFO 2022-07-17 18:40:19,346 root  list index out of range
+INFO 2022-07-17 18:41:57,348 root  extracting string 
+INFO 2022-07-17 18:41:57,348 root  list index out of range
+INFO 2022-07-17 18:42:25,791 root  extracting string 
+INFO 2022-07-17 18:42:25,792 root  list index out of range
+INFO 2022-07-17 18:43:05,167 root  extracting string 
+INFO 2022-07-17 18:43:05,167 root  list index out of range
+INFO 2022-07-17 19:08:00,502 root  extracting string 
+INFO 2022-07-17 19:08:00,502 root  list index out of range
+INFO 2022-07-17 19:22:34,070 root  extracting string 
+INFO 2022-07-17 19:22:34,070 root  list index out of range
+INFO 2022-07-17 20:22:52,235 root  extracting string 
+INFO 2022-07-17 20:22:52,235 root  list index out of range
+INFO 2022-07-17 20:35:05,204 root  extracting string 
+INFO 2022-07-17 21:52:37,810 root  extracting string 
+INFO 2022-07-17 21:52:37,810 root  list index out of range
+INFO 2022-07-17 22:02:09,581 root  extracting string 
+INFO 2022-07-17 22:02:09,581 root  Extraction completeed %s
+INFO 2022-07-17 22:02:09,581 root  Extraction completeed %s
+INFO 2022-07-17 22:02:09,582 root  Extraction completeed %s
+INFO 2022-07-17 22:02:09,582 root  Extraction completeed %s
+INFO 2022-07-17 22:02:09,582 root  Extraction completeed %s
+INFO 2022-07-17 22:02:09,582 root  Extraction completeed %s
+INFO 2022-07-17 22:02:09,582 root  Extraction completeed %s
+INFO 2022-07-17 22:02:09,582 root  Extraction completeed %s
+INFO 2022-07-17 22:02:09,582 root  Extraction completeed %s
+INFO 2022-07-17 22:03:03,247 root  extracting string 
+INFO 2022-07-17 22:03:03,247 root  Extraction completeed %s
+INFO 2022-07-17 22:03:03,247 root  Extraction completeed %s
+INFO 2022-07-17 22:03:03,247 root  Extraction completeed %s
+INFO 2022-07-17 22:03:03,247 root  Extraction completeed %s
+INFO 2022-07-17 22:03:03,247 root  Extraction completeed %s
+INFO 2022-07-17 22:03:03,247 root  Extraction completeed %s
+INFO 2022-07-17 22:03:03,247 root  Extraction completeed %s
+INFO 2022-07-17 22:03:03,247 root  Extraction completeed %s
+INFO 2022-07-17 22:03:03,247 root  Extraction completeed %s
+INFO 2022-07-17 22:03:21,186 root  extracting string 
+INFO 2022-07-17 22:03:21,186 root  Extraction completeed %s
+INFO 2022-07-17 22:03:21,186 root  Extraction completeed %s
+INFO 2022-07-17 22:03:21,186 root  Extraction completeed %s
+INFO 2022-07-17 22:03:21,186 root  Extraction completeed %s
+INFO 2022-07-17 22:03:21,186 root  Extraction completeed %s
+INFO 2022-07-17 22:03:21,186 root  Extraction completeed %s
+INFO 2022-07-17 22:03:21,186 root  Extraction completeed %s
+INFO 2022-07-17 22:03:21,186 root  Extraction completeed %s
+INFO 2022-07-17 22:03:21,186 root  Extraction completeed %s
+INFO 2022-07-17 22:03:55,706 root  extracting string 
+INFO 2022-07-17 22:03:55,707 root  Extraction completeed []
+INFO 2022-07-17 22:03:55,707 root  Extraction completeed []
+INFO 2022-07-17 22:03:55,707 root  Extraction completeed []
+INFO 2022-07-17 22:03:55,707 root  Extraction completeed []
+INFO 2022-07-17 22:03:55,707 root  Extraction completeed []
+INFO 2022-07-17 22:03:55,707 root  Extraction completeed []
+INFO 2022-07-17 22:03:55,707 root  Extraction completeed []
+INFO 2022-07-17 22:03:55,707 root  Extraction completeed []
+INFO 2022-07-17 22:03:55,707 root  Extraction completeed ['sudh']
+INFO 2022-07-17 22:04:23,395 root  extracting string 
+INFO 2022-07-17 22:04:23,396 root  Extraction completeed ['sudh']
+INFO 2022-07-17 22:18:41,053 root  extracting string 
+INFO 2022-07-17 22:18:41,053 root  Extraction completeed  :['sudh'] 
+INFO 2022-07-17 22:19:15,892 root  extracting string 
+INFO 2022-07-17 22:19:15,892 root  Extraction completeed  :['sudh'] 
+INFO 2022-07-17 22:31:20,172 root  Key extracted:[dict_keys(['key1', 234])]
+INFO 2022-07-17 22:33:10,718 root  key extraction of dictionary
+INFO 2022-07-17 22:33:10,718 root  Key extracted:[dict_keys(['key1', 234])]
+INFO 2022-07-17 22:33:18,246 root  key extraction of dictionary
+INFO 2022-07-17 22:33:18,247 root  Key extracted:[dict_keys(['key1', 234])]
+INFO 2022-07-17 22:33:18,247 root  list index out of range
+INFO 2022-07-17 22:34:20,795 root  key extraction of dictionary
+INFO 2022-07-17 22:34:20,795 root  Key extracted:[{'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-17 22:35:53,972 root  key extraction of dictionary
+INFO 2022-07-17 22:35:53,972 root  'list' object has no attribute 'keys'
+INFO 2022-07-17 22:36:10,414 root  key extraction of dictionary
+INFO 2022-07-17 22:36:10,414 root  Key extracted:['key1', 234]
+INFO 2022-07-17 22:36:22,929 root  key extraction of dictionary
+INFO 2022-07-17 22:36:22,930 root  Key extracted:['key1', 234]
+INFO 2022-07-17 22:52:50,431 root  extracting list from a list
+INFO 2022-07-17 22:52:50,431 root  Extraction completeed [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], [1, 2], [23, 45, 656]]
